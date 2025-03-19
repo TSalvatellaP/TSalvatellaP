@@ -23,4 +23,4 @@ Y cuando no estoy programando o editando, seguro me encuentras en algún rincón
 📫 ¡Hablemos!
 Si te mola la idea de colaborar en algo interesante (o simplemente quieres charlar sobre arte, tecnología o cómo evitar que After Effects se cuelgue), aquí me puedes encontrar:
 
-🔗 LinkedIn | 🌎 Portafolio | 📩 Email
+🔗 [LinkedIn]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/taniasalvatella/)| 📩 [Email](mailto:tsalvatellap@gmail.com)
