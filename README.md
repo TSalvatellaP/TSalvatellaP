@@ -7,7 +7,7 @@ Soy desarrolladora web con formación en programación Full Stack, enfocada en R
 Pero mi creatividad no se queda ahí: también tengo una sólida trayectoria en motion graphics y postproducción audiovisual, dominando herramientas como After Effects, Cinema 4D y Arnold. Con más de 15 años en el mundo del broadcast TV, he desarrollado un ojo afilado para los detalles (sí, esos píxeles mal alineados me quitan el sueño).
 
 Y cuando no estoy programando o editando, seguro me encuentras en algún rincón experimentando con artes plásticas, entre pinceles, ilustraciones y esculturas. Me encanta fusionar el arte con la tecnología y siempre ando metida en algún proyecto creativo.
-
+```
 🎯 ¿Qué me motiva?
 🚀 Crear cosas chulas que mezclen diseño y tecnología.
 🎨 Hacer interfaces atractivas y experiencias digitales envolventes.
@@ -19,6 +19,7 @@ Y cuando no estoy programando o editando, seguro me encuentras en algún rincón
 🎬 Motion Graphics & 3D: After Effects, Cinema 4D, Arnold, Premiere Pro
 📺 Broadcast TV: MCR, QC, Ingesta, Live Operations
 🎨 Artes Plásticas: Pintura, ilustración, escultura y experimentación artística
+```
 
 📫 ¡Hablemos!
 Si te mola la idea de colaborar en algo interesante (o simplemente quieres charlar sobre arte, tecnología o cómo evitar que After Effects se cuelgue), aquí me puedes encontrar:
