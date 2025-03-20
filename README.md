@@ -1,4 +1,5 @@
 👋 ¡Hola! Soy TSalvatellaP
+
 ✨ ***Desarrolladora Web Full Stack | 🎨 Motion Graphics & Postproducción | 📺 Broadcast TV | 🖌️ Creativa a tiempo completo***
 
 🚀 ***Sobre mí***
@@ -8,13 +9,13 @@ Pero mi creatividad no se queda ahí: también tengo una sólida trayectoria en 
 
 Y cuando no estoy programando o editando, seguro me encuentras en algún rincón experimentando con artes plásticas, entre pinceles, ilustraciones y esculturas. Me encanta fusionar el arte con la tecnología y siempre ando metida en algún proyecto creativo.
 ```
-🎯 ***¿Qué me motiva?***
+🎯 ¿Qué me motiva?
 🚀 Crear cosas chulas que mezclen diseño y tecnología.
 🎨 Hacer interfaces atractivas y experiencias digitales envolventes.
 📺 Aplicar mi experiencia en audiovisuales a nuevos retos interactivos.
 🖌️ Ensuciarme las manos con pintura y explorar nuevas formas de expresión artística.
 
-🛠 ***Tecnologías y herramientas***
+🛠 Tecnologías y herramientas
 💻 Desarrollo Web: React, Node.js, JavaScript, HTML, CSS, SASS, MySQL
 🎬 Motion Graphics & 3D: After Effects, Cinema 4D, Arnold, Premiere Pro
 📺 Broadcast TV: MCR, QC, Ingesta, Live Operations
