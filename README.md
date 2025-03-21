@@ -5,7 +5,7 @@
 🚀 ***Sobre mí***
 Soy desarrolladora web con formación en programación Full Stack, enfocada en React, Node.js, JavaScript, SASS y MySQL. Me encanta crear experiencias digitales que no solo funcionen bien, sino que también se vean increíbles.
 
-Pero mi creatividad no se queda ahí: también tengo una sólida trayectoria en motion graphics y postproducción audiovisual, dominando herramientas como After Effects, Cinema 4D y Arnold. Con más de 15 años en el mundo del broadcast TV, he desarrollado un ojo afilado para los detalles (sí, esos píxeles mal alineados me quitan el sueño).
+Pero mi creatividad no se queda ahí: también tengo una sólida trayectoria en motion graphics y postproducción audiovisual, dominando herramientas como After Effects, Cinema 4D y Arnold. Con más de 15 años en el mundo del broadcast TV, he desarrollado un ojo afilado para los detalles.
 
 Y cuando no estoy programando o editando, seguro me encuentras en algún rincón experimentando con artes plásticas, entre pinceles, ilustraciones y esculturas. Me encanta fusionar el arte con la tecnología y siempre ando metida en algún proyecto creativo.
 ```
